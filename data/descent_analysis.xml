@@ -1,48 +1,108 @@
-<doc id="0" p_size="250" b_size="8">
-**Pre‑drafting Research – Idiomatic Expressions in the Poe‑inspired Passage**
+<doc id="0" p_size="150" b_size="8">
+**Pre‑drafting Research – Idiomatic Expressions in the Passage**  
+*(≈ 600 words – roughly the length of a short news article)*  
 
-The excerpt is a dense, 19‑th‑century‑style narrative that mixes literary‑flourish, nautical jargon and archaic colloquialisms. Many turns of phrase are idiomatic in English but would sound stilted, obscure or outright unintelligible if rendered literally into Czech. Below is a focused inventory of the most salient idioms, together with brief comments on why a word‑for‑word transfer fails and what Czech‑language strategies can be used to preserve meaning, tone and register.
+| English idiom (as it appears in the text) | Why a literal translation fails in Czech | Suggested Czech rendering or translation note |
+|-------------------------------------------|------------------------------------------|---------------------------------------------|
+| **“exhausted to speak”** | “vyčerpán, aby mluvil” sounds unnatural; Czech prefers a construction that links exhaustion with the inability to speak. | *„byl tak vyčerpaný, že nemohl mluvit.“* |
+| **“the weightier portion of his body hung over it”** | “těžší část těla visela” is literal but clunky; Czech normally expresses “the heavier part of his body” as *„těžší část těla“* but the whole phrase needs re‑ordering. | *„těžší část těla mu visela přes okraj.“* |
+| **“kept from falling by the tenure of his elbow”** | “tenure” (držení, podpora) is not idiomatic; the image of an elbow acting as a brace is clearer in Czech. | *„zabránilo mu spadnutí, že se opřel loktem o okraj.“* |
+| **“to the least exertion”** | Directly “k nejmenšímu úsilí” sounds stiff; Czech idiom prefers “při i nejmenším úsilí”. | *„už při nejmenším úsilí“* |
+| **“I tremble at the least exertion”** | Same issue as above; “třást se” vs. “chvěji se” – the latter is more literary. | *„chvěji se i při nejmenším úsilí.“* |
+| **“I am frightened at a shadow”** | “být vyděšený stínem” is literal but unusual; Czech uses *„strachovat se i ze stínu.“* | *„strachují mě i stíny.“* |
+| **“to get giddy”** | “cítit se rozhlášený” is nonsensical; Czech idiom is *„zavířit se“* or *„cítit se omámený“*. | *„pokud se vám zatočí hlava.“* |
+| **“to get over these fancies”** | “překonat tyto fantazie” is understandable but the word *fancies* carries a sense of frivolous imagination; Czech often uses *„překonat tyto bláznivé myšlenky“*. | *„musíte se těchto představ zbavit.“* |
+| **“the best possible view”** | Literal translation is fine, but a more idiomatic Czech phrasing would be *„nejlepší možný výhled“*. | *„abychom měli co nejlepší výhled.“* |
+| **“raise yourself up a little higher”** | Directly *„zvedněte se trochu výš“* works, but the narrative voice prefers *„postavte se o něco výš“*. | *„postavte se o něco výš.“* |
+| **“if you feel giddy – so – and look out”** | The interjection *“so”* is a filler; Czech would drop it or replace with *„pak“*. | *„pokud se vám zatočí hlava, pak se podívejte dál.“* |
+| **“dizzily”** | *„závratně“* is a literal adverb but rarely used; Czech prefers *„závratně“* or *„závratně“* is acceptable. | *„závratně“* |
+| **“a wide expanse of ocean”** | *„rozlehlá vodní plocha“* is literal but clunky; Czech idiom is *„rozsáhlé moře“* or *„rozlehlý oceán“*. | *„rozlehlý oceán.“* |
+| **“inky hue”** | *„inkoustová barva“* is understandable but sounds odd; Czech often says *„černavá barva“* or *„temně modrá“* depending on context. | *„temná, černavá barva.“* |
+| **“panorama more deplorably desolate”** | *“deplorably”* (žalostně) is rare in Czech; better to convey *„strašně“* or *„neduž“*. | *„panorama strašně pusté.“* |
+| **“ramparts of the world”** | *„hradební zdi světa“* is literal but absurd; Czech would keep the metaphor *„hradební zdi světa“* or replace with *„zdi světa“*. | *„jako hradby světa.“* |
+| **“howling and shrieking for ever”** | *„kvílení a výkřiky navždy“* sounds literal; Czech prefers *„nekonečně kvílel a řval“*. | *„nekonečně kvílel a řval.“* |
+| **“the spot just under your eye”** | *„bod přímo pod vaším okem“* is literal; Czech idiom is *„přímo před vašima očima“*. | *„přímo před vašima očima.“* |
+| **“dazzily round and round”** | *„oslnivě kolovat“* is literal; Czech would say *„závratně se otáčel“*. | *„závratně se otáčel.“* |
+| **“the roar of the water”** | *„řev vody“* works, but the phrase *“roar”* is often rendered as *„huk“* or *„řev“*. | *„huk vody.“* |
+| **“the flood rises” / “the fall must be deeper”** | These hydrological metaphors translate well literally, but Czech prefers *„příliv stoupá“* / *„odliv bude hlubší“*. | *„příliv stoupá, odliv bude hlubší.“* |
+| **“a terrible hurricane that ever came out of the heavens”** | *“z nebes”* is literal; Czech idiomatically says *„z nebes spadl“* or *„přišel z nebes“*. | *„strašlivý hurikán, který spadl z nebes.“* |
+| **“the wind that now drove us on”** | *“nyní nás hnala vítr”* is acceptable; Czech may prefer *„vítr, který nás nyní hnul“*. | *„vítr, který nás nyní hnul.“* |
+| **“the whirl of the Ström”** | *“vír Strömu”* is literal; Czech would keep the proper name *„vír Moskoe‑ström“* or *„vír Moskoe‑strömu“*. | *„vír Moskoe‑ström.“* |
+| **“the tide of the whirl”** | *“příliv víru”* is awkward; Czech would say *„proud víru“* or *„proud víru“*. | *„proud víru.“* |
+| **“a single feather of a thing that ever sat upon water”** | *“jeden peříčko“* is literal but odd; Czech idiom *„nejlehčí věc, co kdy plavala na vodě“*. | *„nejlehčí věc, co kdy plavala na vodě.“* |
+| **“to be bound for the whirl”** | *“být vázán k víru”* is literal; Czech would phrase *„směřovat k víru“*. | *„směřovali k víru.“* |
+| **“the moon … with a lustre that I never before knew her to wear”** | *“lesk, který jsem předtím neviděl“* works, but the poetic personification *“her”* is unusual in Czech; better *„který jsem dosud neznal“*. | *„s leskem, který jsem dosud nepoznal.“* |
+| **“the boat made a sharp half turn to larboard”** | *“půlotočení k levé boku”* (larboard = levá strana) is technical; Czech seafarers use *„k levé boku“* or *„k levé straně“*. | *„lodě se prudce otočila k levé straně.“* |
 
-| English idiom (excerpt) | Why literal translation is problematic | Suggested Czech rendering (paraphrase or set phrase) |
-|--------------------------|----------------------------------------|---------------------------------------------------|
-| **“the weightier portion of his body hung over it”** | “Weightier” is a literal adjective that in Czech would sound unnatural in the context of a precarious hanging; the English idiom stresses the centre of mass. | *„těžší část těla se nad ní vyklonila“* or *„větší část těla visela nad okrajem“* |
-| **“the tenure of his elbow on its extreme and slippery edge”** | “Tenure” is a legal‑sounding noun that does not convey “the grip” in Czech. | *„opíral se loktem o jeho nejširší, kluzký okraj“* |
-| **“I tremble at the least exertion”** | “Exertion” is a formal word; the idiom means “even a tiny effort makes me shiver”. | *„i při nepatrném úsilí se mi třesou ruce“* |
-| **“the little cliff … rose, a sheer unobstructed precipice”** | “Sheer” and “unobstructed” together intensify the visual; Czech needs a compact description. | *„vyvýšila se prudká, zcela neporušená stěna“* |
-| **“to get in its lee”** (na námořní “lee” – ležící na větru) | “Lee” is a nautical term meaning the sheltered side; literal translation “le” would be meaningless. | *„do závětru“* or *„na stinnou stranu“* |
-| **“to be in the very jaws of the gulf”** | “Jaws” metaphorically denotes a dangerous embrace; Czech uses “čelisti” rarely in this sense. | *„v samotných čelistech zálivu“* or *„v nebezpečném sevření zálivu“* |
-| **“to be in the grip of the whirl”** | “Grip” as a noun meaning “hold” is idiomatic. | *„v sevření víru“* |
-| **“to ride the swells”** | Nautical idiom for moving smoothly with the waves. | *„plavit se po vlnách“* |
-| **“to be borne along”** | “Borne” suggests passive movement; Czech prefers a reflexive verb. | *„byl nesen proudem“* |
-| **“to make a wild lurch to starboard”** | “Lurch” is a sudden jerk; “to starboard” is a fixed nautical direction. | *„prudce se vyklonil k pravoboku“* |
-| **“to feel the sickening sweep of the descent”** | “Sweep” as a noun meaning “sudden motion” is idiomatic. | *„cítit děsivý pád“* |
-| **“to be a victim of the vortex”** | “Victim” evokes passivity and tragedy; Czech often uses “oběť” but may sound too literal. | *„upadnout do spárů víru“* |
-| **“to be taken aback by a breeze”** | “Taken aback” = surprised, shocked. | *„byl zaskočen náhlým vánkem“* |
-| **“to be dead becalmed”** | “Dead becalmed” is a double intensifier; “becalmed” alone already means motionless. | *„byl úplně ztuhlý v tichu“* |
-| **“to make one’s way”** | Generic idiom for progressing. | *„dál se posunout“* |
-| **“to be caught in the whirl”** | “Caught” implies being trapped. | *„uvěznit se v víru“* |
-| **“to be on the brink of the pit”** | “Brink” and “pit” together emphasize imminent danger. | *„na okraji propasti“* |
-| **“to be in the belly of the beast”** (paraphrased as “in the very jaws of the gulf”) | The metaphor of a beast’s belly is vivid in English; Czech prefers “břicho” or “střevo” rarely used metaphorically. | *„v samém středu propasti“* |
-| **“to be in the lee of Flimen”** | Again, “lee” is a technical term. | *„v závětru Flimenu“* |
-| **“to be a light‑headed man”** | “Light‑headed” = dizzy, faint‑hearted. | *„cítit se omámený“* |
-| **“to make a quick glance”** | “Quick glance” = fleeting look. | *„rychlý pohled“* |
-| **“to be a victim of the hurricane”** | “Victim” used metaphorically for being overpowered. | *„upadnout do spárů hurikánu“* |
-| **“to be a man‑of‑the‑world”** (implied by “old man” with worldly knowledge) | The phrase isn’t explicit but the character’s authority hints at it. | *„zkušený muž“* |
+### General Observations for Czech Translation  
 
-### General Translation Guidelines
+1. **Verb‑noun pairs** such as *“to get giddy”* or *“to raise yourself”* usually become reflexive verbs (*„zavířit se“, „postavit se“*) rather than literal verb‑noun constructions.  
+2. **Archaic or literary adjectives** (*deplorably, ominously, incessantly*) often have more common equivalents in Czech (*strašně, nesmírně, neustále*).  
+3. **Proper nouns** (Moskoe‑ström, Vurrgh, Lofoten, etc.) should remain unchanged, but the surrounding descriptive terms must agree in gender and case.  
+4. **Metaphorical geography** (*ramparts of the world, abyss of the whirl*) is best rendered with Czech metaphors that preserve the grandeur without sounding forced.  
+5. **Colloquial fillers** (*so, well, now*) are generally omitted in Czech narrative prose unless they serve a rhythmical purpose.  
 
-1. **Preserve the nautical register** – use established Czech maritime terminology (e.g., *závěr, pravobok, levobok, hromadný proud, vír*). When a term has no exact Czech counterpart, a short explanatory phrase is preferable to a literal copy.
-
-2. **Maintain the archaic, poetic tone** – many idioms are rendered with slightly elevated diction (*třes se mi ruka*, *závratná hrozba*). Avoid modern colloquialisms that would break the period atmosphere.
-
-3. **Balance literal and dynamic equivalence** – for vivid metaphors (e.g., “jaws of the gulf”) a dynamic translation that keeps the visual impact is more effective than a literal rendering that would sound forced.
-
-4. **Use Czech set phrases where possible** – idioms like *„být v těžké situaci“* (to be in a tight spot) or *„být v zajetí“* (to be trapped) already carry the necessary connotations.
-
-5. **Avoid over‑literalism with double intensifiers** – phrases such as “dead becalmed” or “very little effort” should be smoothed out (*zcela bez pohybu*, *malé úsilí*).
-
-By applying these strategies, the translation will retain Poe’s atmospheric richness, the narrator’s dread, and the technical precision of the seafaring description, while presenting a fluid, idiomatically natural Czech text.
+These notes will guide the subsequent drafting stages, ensuring that idiomatic meaning and literary tone are preserved while producing a natural‑sounding Czech translation.
 <model>gpt-oss-120b</model>
 <timeout>0</timeout>
-<duration>47.63237977027893</duration>
+<duration>132.7502739429474</duration>
+</doc>
+<doc id="1" p_size="150" b_size="8">
+**Pre‑drafting Research – Idiomatic Expressions**
+
+The passage is a highly figurative, 19th‑century‑style narrative describing a terrifying whirl‑pool experience.  Because the text is dense with idioms, metaphors and period‑specific turns of phrase, a literal word‑for‑word rendering would sound stilted or unintelligible in modern Czech.  Below is a compact catalogue of the most problematic idiomatic units, grouped by theme, together with brief comments on why they pose translation difficulties and suggestions for Czech equivalents (to be refined in later drafting stages).
+
+| English idiom / figurative phrase | Why it is idiomatic / difficult | Possible Czech rendering (conceptual) |
+|-----------------------------------|--------------------------------|--------------------------------------|
+| **“roaring noise of the water”** | Personifies the sound; “roaring” is usually used for animals or engines. | *řevoucí hukot vody* (maintains the animal‑like metaphor). |
+| **“shrill shriek”** | “Shrill” and “shriek” are near‑synonyms; the phrase intensifies the sound. | *pískavý výkřik* or *křik, který píská*. |
+| **“like an air‑bubble”** | Simile that conveys lightness and fleetingness. | *jako bublina ve vodě* (literal) or *jako vzdušná bublina*. |
+| **“the belt of surf that always surrounds the whirl”** | “Belt” is a metaphor for a ring‑shaped zone of waves. | *pruh vln, který vždy obklopuje vír*. |
+| **“plunge us into the abyss”** | “Plunge” = sudden fall; “abyss” = deep, unknown void. | *ponořit nás do propasti*. |
+| **“the boat did not seem to sink … but to skim like an air‑bubble”** | Contrasting sinking with skimming; “skim” is a nautical term. | *nezdálo se, že by se potopila, spíše se poletovala jako bublina*. |
+| **“starboard side … larboard”** (archaic “larboard” = port) | Nautical jargon, not everyday Czech. | *pravobok / levobok* (or *palubová strana* for “starboard”, *břehová strana* for “port”). |
+| **“writhing wall”** | “Writhing” suggests a living, moving wall; unusual collocation. | *svíjející se zeď* or *plazivá zeď*. |
+| **“in the very jaws of the gulf”** | “Jaws” metaphor for a dangerous, enclosing place. | *v samých čenichách zálivu* (more idiomatic: *v čenichu zálivu*). |
+| **“composed”** (in “I felt more composed”) | Slightly archaic use meaning “calm, collected”. | *klidnější* or *vyrovnanější*. |
+| **“made up my mind to hope no more”** | Unusual phrasing; means to stop hoping. | *přestal jsem doufat* (clearer). |
+| **“unmanned me at first”** | “Unmanned” is a literal translation of an old‑fashioned sense “left me without courage”. | *zbavil mě odvahy*. |
+| **“blushed with shame”** | Standard idiom, but “blush” = turn red from embarrassment. | *zčervenal jsem studem*. |
+| **“possessed with the keenest curiosity”** | “Possessed” = filled, overtaken. | *ovládla mě nejostřejší zvědavost*. |
+| **“sacrifice I was going to make”** | Metaphoric sacrifice for exploration. | *oběť, kterou jsem byl připraven přinést*. |
+| **“a little light‑headed”** | Means dizzy, not literally light. | *trochu se mi zatočil hlava*. |
+| **“the cessation of the wind”** | “Cessation” sounds formal; modern Czech would use “ukončení”. | *přestání větru*. |
+| **“the belt of surf is considerably lower than the general bed of the ocean”** | “Belt” again; “bed of the ocean” = ocean floor. | *pruh vln je podstatně nižší než samotný oceánský dno*. |
+| **“confusion of mind occasioned by the wind and the spray together”** | “Confusion of mind” = mental disorientation. | *zmatení mysli způsobené větrem a sprejem*. |
+| **“death‑condemned felons in prison are allowed petty indulgences”** | Complex metaphor comparing the sailors’ brief respite to a condemned criminal’s small comforts. | *vězni odsouzeni k smrti dostávají i drobné úlevy*. |
+| **“career round and round for perhaps an hour, flying rather than floating”** | “Flying” as an intensified verb for rapid motion. | *letěli místo toho, aby se jen plavili*. |
+| **“ring‑bolt”** | Specific nautical hardware; literal term may be unknown. | *kovová očka* or keep as *prstenný šroub* with explanation. |
+| **“the only thing on deck that had not been swept overboard”** | “Swept overboard” = thrown into sea by wave. | *jediná věc na palubě, která nebyla vyplavena*. |
+| **“the agony of his terror”** | Redundant intensifier. | *v jeho hrůze* or *v jeho úzkosti*. |
+| **“raving maniac through sheer fright”** | “Raving” = delirious; “sheer” = pure. | *šílený šílenec z čisté hrůzy*. |
+| **“a wild lurch to starboard”** | “Lurch” = sudden shift; “starboard” = pravobok. | *náhlý výkyv doprava*. |
+| **“the sickening sweep of the descent”** | “Sickening” = nauseating; “sweep” = rapid motion. | *závratný spád*. |
+| **“a strange interest”** | Unusual collocation. | *zvláštní zájem*. |
+| **“delirious – for I even sought amusement”** | “Delirious” used figuratively. | *šílený – dokonce jsem hledal zábavu*. |
+| **“the fact of my invariable miscalculation”** | Redundant phrasing; “invariable” = always. | *stálá chyba v odhadech*. |
+| **“the dawn of a more exciting hope”** | “Dawn” metaphor for emergence. | *zářící naděje*. |
+| **“the great variety of buoyant matter that strewed the coast”** | “Buoyant matter” = floating debris; “strewed” = scattered. | *rozmanité plovoucí předměty, které se rozprostíraly po pobřeží*. |
+| **“shattered in the most extraordinary way – so chafed and roughened as to have the appearance of being stuck full of splinters”** | “Chafed” unusual; metaphorical description. | *rozbité tak, že byly otřené a drsné, jako by byly plné třísek*. |
+| **“cylinder … offered more resistance to its suction”** | Technical metaphor; “suction” = vortex pull. | *válec se více bránil vtahování vírem*. |
+| **“the emergency admitted no delay”** | Formal; “admitted” = allowed. | *v nouzové situaci nebyl čas na otálení*. |
+| **“the result was precisely what I had hoped it might be”** | “Precisely” intensifier. | *výsledek byl přesně takový, jaký jsem doufal*. |
+| **“the hour of the slack”** | Nautical term for period of low tide. | *období mírného přílivu* or *čas útlumu*. |
+| **“the sea still heaved in mountainous waves from the effects of the hurricane”** | “Mountainous waves” vivid metaphor. | *moře se stále vznášelo v horách podobných vlnách po hurikánu*. |
+| **“the whole expression of my countenance had changed”** | “Expression of countenance” archaic. | *výraz mé tváře se úplně změnil*. |
+
+### General Observations for the Translation Plan
+1. **Period Language vs. Modern Czech** – The English source employs 19th‑century literary style.  Czech equivalents should preserve the historic flavor without becoming incomprehensible.  Consider using slightly archaic, but still readable, Czech (e.g., *čísla*, *plavba*, *vír*).  
+2. **Nautical Terminology** – Some terms (starboard, larboard, ring‑bolt, counter, smack) are either obsolete or specific to English sailing.  Provide Czech nautical equivalents (*pravobok, levobok, kroužkový šroub, podpalubí, plavidlo*), possibly with a brief footnote if the term remains obscure.  
+3. **Metaphorical Imagery** – The text abounds in vivid, sometimes mixed, metaphors (e.g., “walls of the funnel”, “rainbow like a tottering bridge”, “jaws of the gulf”).  The Czech translation should keep the visual impact, using culturally resonant images (e.g., *duhová mostová cesta*, *zuby zálivu*).  
+4. **Repetition for Emphasis** – English often repeats a word for effect (“shrill shriek”, “roaring noise”).  Czech can mirror this with synonymous repetitions or with intensifying adverbs (*strašlivý, děsivý*).  
+5. **Complex Sentences** – Many long sentences contain several idiomatic blocks.  In Czech, breaking them into shorter, more digestible clauses will improve readability while preserving meaning.  
+
+These notes will guide the subsequent drafting stages: a literal draft (Stage 2), a refined literary version (Stage 3), a stylistically polished Czech text (Stage 4), and finally a proof‑read final version (Stage 5).
+<model>gpt-oss-120b</model>
+<timeout>0</timeout>
+<duration>100.5491840839386</duration>
 </doc>

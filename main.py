@@ -38,10 +38,13 @@ if __name__ == '__main__':
     # Read file
     source_file = file2dict('data/descent_source.xml')
     analysis_file = file2dict('data/descent_analysis.xml')
-    draft_file = file2dict('data/descent_direct.xml')
+    draft_file = file2dict('data/descent_cs.xml')
 
     tries = 3
     correct = 0
+
+    saved_prompt = False
+
 
     for source, analysis, draft in zip(source_file, analysis_file, draft_file):
         for i in range(tries):
@@ -52,6 +55,11 @@ if __name__ == '__main__':
                 ''.join(draft['content'])
             )
 
+            if not saved_prompt:
+                saved_prompt = True
+                with open('prompt.txt', 'w') as file:
+                    file.writelines(prompt)
+
             result = send_prompt(prompt, llm_token)
             if result['status'] == 200:
                 print(result['content'])
@@ -60,4 +68,5 @@ if __name__ == '__main__':
             else:
                 print(result['content'])
                 print(i, 'ERROR?')
+        break
     print(f'\nCorrect {correct}/{tries}.')
