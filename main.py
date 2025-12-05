@@ -40,7 +40,7 @@ if __name__ == '__main__':
     analysis_file = file2dict('data/descent_analysis.xml')
     draft_file = file2dict('data/descent_direct.xml')
 
-    tries = 5
+    tries = 3
     correct = 0
 
     for source, analysis, draft in zip(source_file, analysis_file, draft_file):
