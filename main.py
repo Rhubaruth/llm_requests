@@ -45,6 +45,7 @@ if __name__ == '__main__':
 
     for source, analysis, draft in zip(source_file, analysis_file, draft_file):
         for i in range(tries):
+            print('Try', i)
             prompt = create_prompt(
                 ''.join(source['content']),
                 ''.join(analysis['content']),

@@ -4,9 +4,9 @@ from time import time
 
 def send_prompt(prompt, token):
     payload = {
-        'model': 'glm4.6-iq4_k',
+        'model': 'gpt-oss-120b',
         'messages': [
-            {'role': 'system', 'content': 'You are a helpful assistant.'},
+            # {'role': 'system', 'content': 'You are a helpful assistant.'},
             {'role': 'user', 'content': prompt}
         ]
     }
@@ -30,10 +30,6 @@ def send_prompt(prompt, token):
         return result_dict
 
     if result.status_code != 200:
-        # Error in request
-        # print(f"Error in request [Status {result.status_code}]")
-        # print(prompt)
-        # print(result)
         result_dict = {
             'content': result,
             'duration': end_time - start_time,
