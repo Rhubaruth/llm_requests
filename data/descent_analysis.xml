@@ -1,0 +1,48 @@
+<doc id="0" p_size="250" b_size="8">
+**Pre‑drafting Research – Idiomatic Expressions in the Poe‑inspired Passage**
+
+The excerpt is a dense, 19‑th‑century‑style narrative that mixes literary‑flourish, nautical jargon and archaic colloquialisms. Many turns of phrase are idiomatic in English but would sound stilted, obscure or outright unintelligible if rendered literally into Czech. Below is a focused inventory of the most salient idioms, together with brief comments on why a word‑for‑word transfer fails and what Czech‑language strategies can be used to preserve meaning, tone and register.
+
+| English idiom (excerpt) | Why literal translation is problematic | Suggested Czech rendering (paraphrase or set phrase) |
+|--------------------------|----------------------------------------|---------------------------------------------------|
+| **“the weightier portion of his body hung over it”** | “Weightier” is a literal adjective that in Czech would sound unnatural in the context of a precarious hanging; the English idiom stresses the centre of mass. | *„těžší část těla se nad ní vyklonila“* or *„větší část těla visela nad okrajem“* |
+| **“the tenure of his elbow on its extreme and slippery edge”** | “Tenure” is a legal‑sounding noun that does not convey “the grip” in Czech. | *„opíral se loktem o jeho nejširší, kluzký okraj“* |
+| **“I tremble at the least exertion”** | “Exertion” is a formal word; the idiom means “even a tiny effort makes me shiver”. | *„i při nepatrném úsilí se mi třesou ruce“* |
+| **“the little cliff … rose, a sheer unobstructed precipice”** | “Sheer” and “unobstructed” together intensify the visual; Czech needs a compact description. | *„vyvýšila se prudká, zcela neporušená stěna“* |
+| **“to get in its lee”** (na námořní “lee” – ležící na větru) | “Lee” is a nautical term meaning the sheltered side; literal translation “le” would be meaningless. | *„do závětru“* or *„na stinnou stranu“* |
+| **“to be in the very jaws of the gulf”** | “Jaws” metaphorically denotes a dangerous embrace; Czech uses “čelisti” rarely in this sense. | *„v samotných čelistech zálivu“* or *„v nebezpečném sevření zálivu“* |
+| **“to be in the grip of the whirl”** | “Grip” as a noun meaning “hold” is idiomatic. | *„v sevření víru“* |
+| **“to ride the swells”** | Nautical idiom for moving smoothly with the waves. | *„plavit se po vlnách“* |
+| **“to be borne along”** | “Borne” suggests passive movement; Czech prefers a reflexive verb. | *„byl nesen proudem“* |
+| **“to make a wild lurch to starboard”** | “Lurch” is a sudden jerk; “to starboard” is a fixed nautical direction. | *„prudce se vyklonil k pravoboku“* |
+| **“to feel the sickening sweep of the descent”** | “Sweep” as a noun meaning “sudden motion” is idiomatic. | *„cítit děsivý pád“* |
+| **“to be a victim of the vortex”** | “Victim” evokes passivity and tragedy; Czech often uses “oběť” but may sound too literal. | *„upadnout do spárů víru“* |
+| **“to be taken aback by a breeze”** | “Taken aback” = surprised, shocked. | *„byl zaskočen náhlým vánkem“* |
+| **“to be dead becalmed”** | “Dead becalmed” is a double intensifier; “becalmed” alone already means motionless. | *„byl úplně ztuhlý v tichu“* |
+| **“to make one’s way”** | Generic idiom for progressing. | *„dál se posunout“* |
+| **“to be caught in the whirl”** | “Caught” implies being trapped. | *„uvěznit se v víru“* |
+| **“to be on the brink of the pit”** | “Brink” and “pit” together emphasize imminent danger. | *„na okraji propasti“* |
+| **“to be in the belly of the beast”** (paraphrased as “in the very jaws of the gulf”) | The metaphor of a beast’s belly is vivid in English; Czech prefers “břicho” or “střevo” rarely used metaphorically. | *„v samém středu propasti“* |
+| **“to be in the lee of Flimen”** | Again, “lee” is a technical term. | *„v závětru Flimenu“* |
+| **“to be a light‑headed man”** | “Light‑headed” = dizzy, faint‑hearted. | *„cítit se omámený“* |
+| **“to make a quick glance”** | “Quick glance” = fleeting look. | *„rychlý pohled“* |
+| **“to be a victim of the hurricane”** | “Victim” used metaphorically for being overpowered. | *„upadnout do spárů hurikánu“* |
+| **“to be a man‑of‑the‑world”** (implied by “old man” with worldly knowledge) | The phrase isn’t explicit but the character’s authority hints at it. | *„zkušený muž“* |
+
+### General Translation Guidelines
+
+1. **Preserve the nautical register** – use established Czech maritime terminology (e.g., *závěr, pravobok, levobok, hromadný proud, vír*). When a term has no exact Czech counterpart, a short explanatory phrase is preferable to a literal copy.
+
+2. **Maintain the archaic, poetic tone** – many idioms are rendered with slightly elevated diction (*třes se mi ruka*, *závratná hrozba*). Avoid modern colloquialisms that would break the period atmosphere.
+
+3. **Balance literal and dynamic equivalence** – for vivid metaphors (e.g., “jaws of the gulf”) a dynamic translation that keeps the visual impact is more effective than a literal rendering that would sound forced.
+
+4. **Use Czech set phrases where possible** – idioms like *„být v těžké situaci“* (to be in a tight spot) or *„být v zajetí“* (to be trapped) already carry the necessary connotations.
+
+5. **Avoid over‑literalism with double intensifiers** – phrases such as “dead becalmed” or “very little effort” should be smoothed out (*zcela bez pohybu*, *malé úsilí*).
+
+By applying these strategies, the translation will retain Poe’s atmospheric richness, the narrator’s dread, and the technical precision of the seafaring description, while presenting a fluid, idiomatically natural Czech text.
+<model>gpt-oss-120b</model>
+<timeout>0</timeout>
+<duration>47.63237977027893</duration>
+</doc>
